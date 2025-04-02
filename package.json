@@ -1,0 +1,16 @@
+{
+  "name": "change-fname",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@farcaster/hub-nodejs": "^0.12.7",
+    "viem": "^2.24.3"
+  }
+}
