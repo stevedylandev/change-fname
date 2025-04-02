@@ -14,7 +14,7 @@ cd change-fname
 bun install
 ```
 
-> [!DANGER]
+> [!CAUTION]
 > Do NOT give your Farcaster recovery phrase to anyone!! This script is designed to be run locally and never hosted for security reasons!!
 
 Update the `.env.example` file to `.env` and add your Farcaster Account Mnemonic Phrase. This can be located inside the Warpcast account on **mobile** (not desktop/web), then going to `Settings > Advance > Show Farcaster recovery phrase`. DO NOT give your recover phrase to anyone!!
